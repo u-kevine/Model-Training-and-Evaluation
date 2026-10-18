@@ -1,0 +1,10 @@
+ucimlrepo
+numpy
+pandas
+scikit-learn>=1.2
+tensorflow>=2.15
+matplotlib
+seaborn
+scipy
+joblib
+ 
